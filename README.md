@@ -1,6 +1,9 @@
 # ETL Project
+## Introduction
 
 First create a virtual env
 
-rename .env_examle to .env and add your credentails
+Rename `.env_examle` to .env and add your credentials in the provided variables.
+
+
 
